@@ -69,6 +69,9 @@ public class ArticleServiceImpl extends ServiceImpl<ArticleMapper, Article> impl
     @Override
     public ArticleResponse detail(Long id) {
         Article article = this.getById(id);
+        // 更新访问量
+        article.setView(article.getView()+1);
+        this.updateById(article);
         ArticleResponse response = new ArticleResponse();
         BeanUtil.copyProperties(article, response);
         LambdaQueryWrapper<ArticleTag> articleTagWrapper = new LambdaQueryWrapper<>();
