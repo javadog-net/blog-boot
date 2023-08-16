@@ -9,25 +9,25 @@
 <p align="center">     
     <p align="center">
     	<a href="https://cn.vuejs.org/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2cbacee30e364a079bc858c759e35be8~tplv-k3u1fbpfcp-zoom-1.image" alt="iview">
+            <img src="https://img.javadog.net/blog/blog-boot/2cbacee30e364a079bc858c759e35be8_tplv-k3u1fbpfcp-zoom-1.png" alt="iview">
         </a> 
         <a href="https://www.uviewui.com/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1be593e8e6ff4596998f36c336ac5cbc~tplv-k3u1fbpfcp-zoom-1.image" alt="iview">
+            <img src="https://img.javadog.net/blog/blog-boot/1be593e8e6ff4596998f36c336ac5cbc_tplv-k3u1fbpfcp-zoom-1.png" alt="iview">
         </a> 
         <a href="https://shiro.apache.org/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/139b927a083d4748b5114e3c5d85b0b4~tplv-k3u1fbpfcp-zoom-1.image" alt="shiro">
+            <img src="https://img.javadog.net/blog/blog-boot/139b927a083d4748b5114e3c5d85b0b4_tplv-k3u1fbpfcp-zoom-1.png" alt="shiro">
         </a> 
         <a href="http://spring.io/projects/spring-boot">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/09465b4cc1094e68b870996769876b8b~tplv-k3u1fbpfcp-zoom-1.image" alt="spring-boot">
+            <img src="https://img.javadog.net/blog/blog-boot/09465b4cc1094e68b870996769876b8b_tplv-k3u1fbpfcp-zoom-1.png" alt="spring-boot">
         </a>
         <a href="http://mp.baomidou.com">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d85f9c1d28564a9dad89e9b662a23790~tplv-k3u1fbpfcp-zoom-1.image" alt="mybatis-plus">
+            <img src="https://img.javadog.net/blog/blog-boot/d85f9c1d28564a9dad89e9b662a23790_tplv-k3u1fbpfcp-zoom-1.png">
         </a>  
          <a href="http://hutool.cn/">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24ad29ffa17b45358ff0b9359ca4c05b~tplv-k3u1fbpfcp-zoom-1.image" alt="mybatis-plus">
+            <img src="https://img.javadog.net/blog/blog-boot/24ad29ffa17b45358ff0b9359ca4c05b_tplv-k3u1fbpfcp-zoom-1.png" alt="mybatis-plus">
         </a> 
         <a href="./LICENSE">
-            <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12324744e654191adb46ed5465dc6fd~tplv-k3u1fbpfcp-zoom-1.image" alt="license Apache 2.0">
+            <img src="https://img.javadog.net/blog/blog-boot/b12324744e654191adb46ed5465dc6fd_tplv-k3u1fbpfcp-zoom-1.png" alt="license Apache 2.0">
         </a>
     </p>
 </p>
@@ -38,7 +38,7 @@
 ### 公众号：**JavaDog程序狗**
 **关注公众号，发送 【blog】或【博客】，无任何套路即可获得**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d85da04f44df419ead453c965cf84ddc~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/d85da04f44df419ead453c965cf84ddc_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 ## 🌱体验地址
 ### 访问地址
@@ -46,9 +46,12 @@
 
 > http://myblog.javadog.net
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfebf73977834aa2bb0df22295f4a61f~tplv-k3u1fbpfcp-zoom-1.image)
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7fbf6699f08e45ebafd068a405f74749~tplv-k3u1fbpfcp-zoom-1.image)
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41f770577797433a97ed3e1cd760cab6~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/dfebf73977834aa2bb0df22295f4a61f_tplv-k3u1fbpfcp-zoom-1.png)
+
+![](https://img.javadog.net/blog/blog-boot/7fbf6699f08e45ebafd068a405f74749_tplv-k3u1fbpfcp-zoom-1.png)
+
+![](https://img.javadog.net/blog/blog-boot/41f770577797433a97ed3e1cd760cab6_tplv-k3u1fbpfcp-zoom-1.png)
+
 ******
 ###  🍯猜你喜欢
 ####  文章推荐
@@ -69,58 +72,59 @@
 
 关注公众号【**JavaDog程序狗**】，任何留言提问我都会一一回复，如果有需要可以直接联系我，**有问必答**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f349cbd97d4470ebe031d8d31dd006f~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/9f349cbd97d4470ebe031d8d31dd006f_tplv-k3u1fbpfcp-zoom-1.png)
 
 ## 🍵主要功能模块
 ### 🛳️模块思维导图
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e80971a1232444185e31c668b3fcffb~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/5e80971a1232444185e31c668b3fcffb_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 ### 🍭web前端页面
 #### 首页
  用户通过域名根路径访问，如[http://myblog.javadog.net/](http://myblog.javadog.net/)，查看**首页文章列表**，以**时间轴**形式展示**已发布的文章**
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a034f40c60784d428e60485d894b97c8~tplv-k3u1fbpfcp-zoom-1.image)
+ 
+![](https://img.javadog.net/blog/blog-boot/a034f40c60784d428e60485d894b97c8_tplv-k3u1fbpfcp-zoom-1.png)
 #### 文章详情
 用户通过**文章列表点击后**，跳转**文章详情**，其中包含文章标题、分类、标签、发布时间等
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/177247494e1f44459d5887018bd9fcd4~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/177247494e1f44459d5887018bd9fcd4_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 ### ⛄admin后台管理
 
 用户访问[http://myblog.javadog.net/#/admin](http://myblog.javadog.net/#/admin)，如果**登录授权过则跳转后台**，否则跳转**登录注册页**
 #### 注册
 **未创建后台用户时**，填入**用户名、密码、确认密码**进行注册
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/86dffa8d5a1543e69aa11129175d1c11~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/86dffa8d5a1543e69aa11129175d1c11_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### 登录
 **已创建后台用户时**，填入**用户名、密码**进行登录
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e622361a7ce842a7bc3b7777d542f525~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/e622361a7ce842a7bc3b7777d542f525_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### 首页
 登陆后默认打开【admin欢迎页】，后期可根据访问量进行**首页大屏分析图**展示迭代
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/34ac071273424f0a85faf39c34390f21~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/34ac071273424f0a85faf39c34390f21_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### 文章
 #####  所有文章
 点击【所有文章】，展示所有**文章列表**，列表包含**标题、状态、分类、标签、访问、发布时间**等，操作列中包含**预览、编辑、删除**等按钮
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99da6f2742804dc382d4c486491b4f3c~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/99da6f2742804dc382d4c486491b4f3c_tplv-k3u1fbpfcp-zoom-1.png)
 #####  分类目录
 点击【分类目录】，**左侧**展示所有表单**名称、描述**，可新增更新；**右侧**展示分类列表
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c46db0fafae44b27857f0b7b4ce1fadf~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/c46db0fafae44b27857f0b7b4ce1fadf_tplv-k3u1fbpfcp-zoom-1.png)
 #####  写文章
 点击【写文章】，其中包含**markdown编辑器，文章标题**，点击【发布】后，弹出文章设置，表单包括**文章标题、分类、标签、摘要**，可点击**发布**或者选择放置**草稿箱**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/04c1f576a78f45669dd1f0662756b5f7~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/04c1f576a78f45669dd1f0662756b5f7_tplv-k3u1fbpfcp-zoom-1.png)
 #####  标签
 点击【标签】，**左侧**展示表单**标签名、颜色**，可新增更新；**右侧**平铺展示标签
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/366968bd53b748bfab0e3d1ed3c39d21~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/366968bd53b748bfab0e3d1ed3c39d21_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 #### 用户
 #####  个人资料
 点击【个人资料】，左侧展示**个人信息表单包括头像、昵称、性别、出生日期、简介**，可进行更新；右侧展示**修改密码表单**包括**原始密码、新密码、确认密码，可进行密码修改**
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6a9c9ae1f004690b3621f7acf9cc458~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/d6a9c9ae1f004690b3621f7acf9cc458_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 
 ## 🦁组件
@@ -152,9 +156,9 @@
 
 ## 🥎代码结构图
 ### 后端代码
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f3d1382c3a34a8d911206cb49a60411~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/9f3d1382c3a34a8d911206cb49a60411_tplv-k3u1fbpfcp-zoom-1.png)
 ### 前端代码
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ecfa41417e94b198d8d2036c996c55e~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/3ecfa41417e94b198d8d2036c996c55e_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 ## 🛠️快速启动
 ### 👸启动前端
@@ -167,22 +171,29 @@
 	npm run serve
 	```
 3. 启动成功
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2c0817b3d4e5460b9996205ab3e2d013~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/2c0817b3d4e5460b9996205ab3e2d013_tplv-k3u1fbpfcp-zoom-1.png)
 ******
 
 ### 👦启动后端
  1. 开发工具内配置好，并将**maven**配置好，建议使用**阿里云镜像**
  2. 选择激活对应的环境，如本地则可使用**dev**
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28eba2406365429b9258fa61666ff373~tplv-k3u1fbpfcp-zoom-1.image)
+
+![](https://img.javadog.net/blog/blog-boot/28eba2406365429b9258fa61666ff373_tplv-k3u1fbpfcp-zoom-1.png)
+
  3. 将**blog-boot根路径**下的**/db/db_blog.sql**进行本地执行，并在application配置文件中修改数据库配置
- ![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fdffb7fda0514a199f2d44958c5fb19b~tplv-k3u1fbpfcp-zoom-1.image)
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f358ec8871c4da0bf9f9c171e66a2ae~tplv-k3u1fbpfcp-zoom-1.image)
+ ![](https://img.javadog.net/blog/blog-boot/fdffb7fda0514a199f2d44958c5fb19b_tplv-k3u1fbpfcp-zoom-1.png)
+
+![](https://img.javadog.net/blog/blog-boot/3f358ec8871c4da0bf9f9c171e66a2ae_tplv-k3u1fbpfcp-zoom-1.png)
+
  4. 运行启动SpringBoot项目，如见到以下日志即为启动成功
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a8d5ac828a13468d8faa957852fb5d84~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/a8d5ac828a13468d8faa957852fb5d84_tplv-k3u1fbpfcp-zoom-1.png)
+
 ******
 ## 🤑体验
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4bafbe9f5f434724859e42ba32589ba8~tplv-k3u1fbpfcp-zoom-1.image)
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0a9c99f124874d31a44a6eb34dbc958c~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/4bafbe9f5f434724859e42ba32589ba8_tplv-k3u1fbpfcp-zoom-1.png)
+
+![](https://img.javadog.net/blog/blog-boot/0a9c99f124874d31a44a6eb34dbc958c_tplv-k3u1fbpfcp-zoom-1.png)
+
 ******
 ## 😊总结
 本篇文章以**实战项目**形式进行展开，适合咱**初学者**进行实际开发体验，熟练**SpringBoot+vue**同时，也加深分层的思路。上手全栈开发，体验实操的快感。项目虽小，但五脏俱全。希望大家在学习的同时，不要忘了**点赞关注**不迷路呦。
@@ -195,11 +206,10 @@
 **优秀案例**
 > 询问一下，略显尊重
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ee15656d503947bdab3be26b10d4f67d~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/ee15656d503947bdab3be26b10d4f67d_tplv-k3u1fbpfcp-zoom-1.png)
 
 
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7414c03201b446d3a8b50cfe23ed096b~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://img.javadog.net/blog/blog-boot/7414c03201b446d3a8b50cfe23ed096b_tplv-k3u1fbpfcp-zoom-1.jpg)
 
 | JavaDog| 狗屋地址 |
 | :----:| :----: | 
